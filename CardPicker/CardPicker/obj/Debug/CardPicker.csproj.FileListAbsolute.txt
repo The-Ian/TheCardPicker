@@ -1,0 +1,9 @@
+C:\Users\Cyberadmin\Desktop\C# Stuff\CardPicker\CardPicker\bin\Debug\CardPicker.exe.config
+C:\Users\Cyberadmin\Desktop\C# Stuff\CardPicker\CardPicker\bin\Debug\CardPicker.exe
+C:\Users\Cyberadmin\Desktop\C# Stuff\CardPicker\CardPicker\bin\Debug\CardPicker.pdb
+C:\Users\Cyberadmin\Desktop\C# Stuff\CardPicker\CardPicker\obj\Debug\CardPicker.csprojResolveAssemblyReference.cache
+C:\Users\Cyberadmin\Desktop\C# Stuff\CardPicker\CardPicker\obj\Debug\CardPicker.Form1.resources
+C:\Users\Cyberadmin\Desktop\C# Stuff\CardPicker\CardPicker\obj\Debug\CardPicker.Properties.Resources.resources
+C:\Users\Cyberadmin\Desktop\C# Stuff\CardPicker\CardPicker\obj\Debug\CardPicker.csproj.GenerateResource.Cache
+C:\Users\Cyberadmin\Desktop\C# Stuff\CardPicker\CardPicker\obj\Debug\CardPicker.exe
+C:\Users\Cyberadmin\Desktop\C# Stuff\CardPicker\CardPicker\obj\Debug\CardPicker.pdb
